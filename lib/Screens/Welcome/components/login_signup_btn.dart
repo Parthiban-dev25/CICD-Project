@@ -25,7 +25,7 @@ class LoginAndSignupBtn extends StatelessWidget {
             );
           },
           child: Text(
-            "Login".toUpperCase(),
+            "Login Test".toUpperCase(),
           ),
         ),
         const SizedBox(height: 16),
