@@ -42,7 +42,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: Flutter/Welcome-Login-Signup-Page-Flutter
+        working-directory: Welcome-Login-Signup-Page-Flutter
 
     steps:
     - name: Checkout Repository
