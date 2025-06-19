@@ -22,8 +22,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-with:
-  personal_token: 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
 
   assets:
     - assets/images/
